@@ -2,14 +2,18 @@
 
 * [README](README.md)
 
-## Computer\_Science
+## Computer_Science
 
-* [Read\_lists](computer\_science/read\_lists.md)
+* [Read_lists](Computer_Science/read_lists.md)
 
 ## Economy
 
-* [Read\_lists](economy/read\_lists.md)
+* [Read_lists](Economy/read_lists.md)
 
 ## History
 
-* [Read\_lists](history/read\_lists.md)
+* [Read_lists](History/read_lists.md)
+
+## Management_Marketing
+
+* [Read_lists](Management_Marketing/Read_lists.md)
