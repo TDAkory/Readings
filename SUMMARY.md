@@ -17,3 +17,4 @@
 ## Management_Marketing
 
 * [Read_lists](Management_Marketing/Read_lists.md)
+    * [01_Be_your_own_CEO](Management_Marketing/01_Be_your_own_CEO.md)
