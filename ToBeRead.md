@@ -16,6 +16,7 @@
 * [SRE deep dive into Linux Page Cache](https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/)
 * [深入理解Linux内存管理](https://www.zhihu.com/column/c_1444822980567805952)
 * [Linux kernel memory management](https://0xax.gitbooks.io/linux-insides/content/MM/linux-mm-1.html)
+* [Linux Applications Performance: Introduction](https://unixism.net/2019/04/linux-applications-performance-introduction/)
 
 * [破浪前行：iLogtail十年老架构如何浴火重生](https://mp.weixin.qq.com/s/pGilpuIQmPX3fNTaM8xmoQ)
 * [深入分析 C++ 全局变量初始化顺序](https://bytetech.info/articles/7338322558243471387?from=message_bot&sender_type=101&message_id=7345307790137327642)
